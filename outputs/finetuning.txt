@@ -1,0 +1,6 @@
+mono-50-left.jpg : [array([[3.86232965]]), array([[3.72734804]])]
+stereo-100-left.jpg : [array([[9.98931149]])]
+stereo-70-left.jpg : [array([[6.54604861]]), array([[6.67173753]])]
+mono-85-left.jpg : [array([[6.42447434]])]
+stereo-30-left.jpg : [array([[4.62003348]]), array([[3.66248141]]), array([[3.77792443]])]
+stereo-50-left.jpg : [array([[4.72974624]])]

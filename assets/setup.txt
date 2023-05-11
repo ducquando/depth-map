@@ -1,0 +1,4 @@
+Baseline: 9cm
+Positions (task 1 stereo): 30-50-70-100 cm
+Positions (task 2 mono): 50-85 cm
+Task 2 camera shift distance: 5cm
